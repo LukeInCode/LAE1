@@ -1,0 +1,4 @@
+v 4
+file . "combinational_logic_tb.vhdl" "a187a54e37b2adf869d28be461ed170db8eec2ce" "20251027161932.531":
+  entity combinational_logic_tb at 2( 1) + 0 on 17;
+  architecture behavior of combinational_logic_tb at 9( 140) + 0 on 18;
