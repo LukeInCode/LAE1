@@ -1,0 +1,13 @@
+v 4
+file . "rca_tb.vhdl" "9cfcadfa873d59ee1b44084e992416598f1209ba" "20251110114011.690":
+  entity rca_tb at 2( 1) + 0 on 17;
+  architecture behavior of rca_tb at 9( 108) + 0 on 18;
+file . "full_adder.vhdl" "6c1eb8a78b2d6ea78270ea2bdb729de51e477086" "20251110112040.799":
+  entity full_adder at 1( 0) + 0 on 13;
+  architecture behavioral of full_adder at 15( 204) + 0 on 14;
+file . "half_adder.vhdl" "784666700f48f5bc11d2924a30cb245bc9447a7a" "20251110110328.091":
+  entity half_adder at 1( 0) + 0 on 11;
+  architecture behavioral of half_adder at 13( 180) + 0 on 12;
+file . "rca_2bit.vhdl" "61aa4fe3738f69a51b4868cf1336ed29c9b56ecc" "20251110113423.252":
+  entity rca at 1( 0) + 0 on 15;
+  architecture behavioral of rca at 15( 198) + 0 on 16;
