@@ -1,0 +1,7 @@
+v 4
+file . "circuito_tb.vhdl" "3afd3c70800886fb0e974d10e03fb4b53cd3611c" "20251110134845.847":
+  entity circuito_tb at 2( 1) + 0 on 13;
+  architecture behavior of circuito_tb at 9( 118) + 0 on 14;
+file . "ESE1.vhdl" "8e7ff394a22d019bd4218e6ea456685532d241b3" "20251110134609.253":
+  entity circuito at 1( 0) + 0 on 11;
+  architecture behavioral of circuito at 12( 138) + 0 on 12;
