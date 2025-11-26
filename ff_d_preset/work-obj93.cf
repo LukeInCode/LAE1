@@ -1,0 +1,4 @@
+v 4
+file . "ffd_reset.vhdl" "386af75786abdfd57dc1b109bc0aec7240aa83d4" "20251126170840.116":
+  entity d_ff at 1( 0) + 0 on 11;
+  architecture rtl_re of d_ff at 13( 149) + 0 on 12;
