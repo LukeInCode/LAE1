@@ -1,0 +1,7 @@
+v 4
+file . "ff_d_sincrono.vhdl" "7b0fe918c39c990d90d5e339607347f57c417a36" "20251130163114.353":
+  entity d_ff_sync_reset at 1( 0) + 0 on 11;
+  architecture behavioral of d_ff_sync_reset at 15( 165) + 0 on 12;
+file . "d_ff_sync_reset_tb.vhdl" "cfe96f76d7afccdde822f99e60cebd325dc449d5" "20251130164433.273":
+  entity d_ff_sync_reset_tb at 2( 1) + 0 on 15;
+  architecture behavior of d_ff_sync_reset_tb at 9( 132) + 0 on 16;
