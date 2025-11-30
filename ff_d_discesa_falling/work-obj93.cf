@@ -1,0 +1,7 @@
+v 4
+file . "ff_d_discesa.vhdl" "2644ef7ec34c588008c7765741a7e0a62c7cf011" "20251130161645.533":
+  entity d_ff at 1( 0) + 0 on 17;
+  architecture rtl_re of d_ff at 13( 134) + 0 on 18;
+file . "d_ff_tb.vhdl" "d17ded57ae8b2da489df8eab5bf9f76053dcc6de" "20251130161856.358":
+  entity d_ff_tb at 2( 1) + 0 on 19;
+  architecture behavior of d_ff_tb at 9( 110) + 0 on 20;
