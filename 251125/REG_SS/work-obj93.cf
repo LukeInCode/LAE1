@@ -1,0 +1,7 @@
+v 4
+file . "REG_SS_4_BIT.vhdl" "e6686500957c1d16617c0983ed618d8b18c412cf" "20251201174008.530":
+  entity reg_ss_4_bit at 1( 0) + 0 on 43;
+  architecture behavior of reg_ss_4_bit at 15( 151) + 0 on 44;
+file . "reg_ss_4_bit_tb.vhdl" "23b55532406479434e6d19c50a27adf3fde7190b" "20251201174333.820":
+  entity reg_ss_4_bit_tb at 2( 1) + 0 on 47;
+  architecture behavior of reg_ss_4_bit_tb at 9( 126) + 0 on 48;
