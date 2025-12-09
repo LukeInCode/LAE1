@@ -1,0 +1,7 @@
+v 4
+file . "cont_updown_tb.vhdl" "edae77c5a1ba86dac77cba2efb662234223bc9b7" "20251209150829.924":
+  entity cont_updown_tb at 2( 1) + 0 on 13;
+  architecture behavior of cont_updown_tb at 9( 124) + 0 on 14;
+file . "contatore_UpDown.vhdl" "45ee718c0e18851f4a1e758efa958570ee6b0ad3" "20251209150201.693":
+  entity cont_updown at 1( 0) + 0 on 11;
+  architecture behavioral of cont_updown at 14( 197) + 0 on 12;
