@@ -1,0 +1,7 @@
+v 4
+file . "cont_caricamento_tb.vhdl" "5d7f405f90bade3e9780d92c3941694cc14833ad" "20251209144932.301":
+  entity cont_caricamento_tb at 2( 1) + 0 on 13;
+  architecture behavior of cont_caricamento_tb at 9( 134) + 0 on 14;
+file . "contatore_caricamento.vhdl" "984f6c85ca9ebd4e86445af196c12fead23fbf93" "20251209144256.965":
+  entity cont_caricamento at 1( 0) + 0 on 11;
+  architecture behavioral of cont_caricamento at 15( 260) + 0 on 12;
