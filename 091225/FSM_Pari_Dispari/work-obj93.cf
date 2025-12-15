@@ -1,0 +1,7 @@
+v 4
+file . "parity_tb.vhdl" "dc8e251b468edee785c08c5f5c1d2a351c298605" "20251215151933.723":
+  entity parity_tb at 2( 1) + 0 on 13;
+  architecture behavior of parity_tb at 9( 114) + 0 on 14;
+file . "parity.vhdl" "ae2db04678dda6fa504fc0ce85637fb052bde743" "20251215151636.690":
+  entity parity at 1( 0) + 0 on 11;
+  architecture arch_parity of parity at 12( 136) + 0 on 12;
