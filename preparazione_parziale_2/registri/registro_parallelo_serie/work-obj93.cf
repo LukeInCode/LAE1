@@ -1,0 +1,7 @@
+v 4
+file . "main.vhdl" "99046dcd6b3c33d2ea43e841ff9e629649f4ce0c" "20251218163151.458":
+  entity reg_ps at 1( 0) + 0 on 23;
+  architecture behavioral of reg_ps at 14( 210) + 0 on 24;
+file . "reg_ps_tb.vhdl" "af6f5caf4fffa11f4be79bd09c5aedc75393db0c" "20251218162746.786":
+  entity reg_ps_tb at 2( 1) + 0 on 19;
+  architecture behavior of reg_ps_tb at 9( 114) + 0 on 20;
