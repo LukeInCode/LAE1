@@ -1,0 +1,7 @@
+v 4
+file . "circular_shift_reg_tb.vhdl" "482aaf9ad343c33059aced1fa1d799a7321d6d2f" "20251218153938.067":
+  entity circular_shift_reg_tb at 2( 1) + 0 on 13;
+  architecture behavior of circular_shift_reg_tb at 9( 138) + 0 on 14;
+file . "main.vhdl" "9918b2af61dd83063ebe6e8d78db587a60c82682" "20251218153438.306":
+  entity circular_shift_register at 1( 0) + 0 on 11;
+  architecture behavioral of circular_shift_register at 14( 194) + 0 on 12;
