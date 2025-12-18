@@ -1,0 +1,7 @@
+v 4
+file . "main.vhdl" "81a02ac3bd59b77b04df933c32b4ff5f520a88b9" "20251218143550.837":
+  entity contatore_reset_async_mod_10 at 1( 0) + 0 on 25;
+  architecture behavioral of contatore_reset_async_mod_10 at 14( 234) + 0 on 26;
+file . "contatore_reset_async_mod_10_tb.vhdl" "1fafc790c15f83de06b954541cd1204eafdcf4b0" "20251218143608.975":
+  entity contatore_reset_async_mod_10_tb at 2( 1) + 0 on 27;
+  architecture behavior of contatore_reset_async_mod_10_tb at 9( 158) + 0 on 28;
